@@ -1,0 +1,26 @@
+body {
+    background-color: papayawhip;
+}
+h1, h2, h3{
+    color: red;
+    font-family: sans-serif;
+}
+p{
+    color: brown;
+    margin: 50px 30px 10px 100px;
+    background-color: lawngreen;
+    border: 1px solid black;
+    padding: 20px;
+}
+pre{
+    background-color: salmon;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px 5px black;
+}
+article p a{
+    color: orange ;
+}
+article:first-child p a{
+    color: blueviolet;
+}
